@@ -1,7 +1,11 @@
 {
-  "latest_version": "2.0",
-  "apk_url": "https://dummy-link.com/RW OT.apk",
+  "latest_version": "2.1",
+  "apk_url": "https://dein-link.com/wolfos.apk",
+  "type": "System-Erweiterung",
+  "size": "45.2 MB",
+  "description": "Dieses Update fügt folgene fuetares hinzu: Patsches für den Update service und eine neue vers. auf 2.1",
   "changelog": [
-    "Erstes echtes OTA-Update!"
+    "Shizuku-Installer repariert",
+    "Automatische Updates hinzugefügt"
   ]
 }
